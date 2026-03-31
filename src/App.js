@@ -3,7 +3,7 @@ import {
   LineChart, Line, BarChart, Bar, ComposedChart,
   XAxis, YAxis, CartesianGrid, Tooltip, Legend,
   ResponsiveContainer, ReferenceLine, Area, AreaChart,
-  Cell, PieChart, Pie
+  Cell
 } from "recharts";
 
 // ── Real data from Beeline KZ internal reports ──────────────────────────────
